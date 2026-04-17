@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.25.1
+gspread==5.11.3
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+python-dotenv==1.0.0
